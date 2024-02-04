@@ -1,1 +1,14 @@
-s
+sudo apt-get install xinit
+sudo apt-get install openbox
+sudo apt-get install tint2
+sudo apt-get install default-jre
+sudo apt-get install pnmixer
+sudo apt-get install pcmanfm 
+sudo apt-get install xterm
+sudo apt-get install plymouth 
+sudo apt-get install plymouth-themes
+sudo apt-get install librewolf
+sudo apt-get install lxdm
+sudo apt-get install uxterm
+#put custom additions here
+sudo update-initramfs -u -v
