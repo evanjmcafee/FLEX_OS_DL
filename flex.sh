@@ -7,8 +7,8 @@ sudo apt-get install pcmanfm
 sudo apt-get install xterm
 sudo apt-get install plymouth 
 sudo apt-get install plymouth-themes
-sudo apt-get install librewolf
+sudo snap install firefox
 sudo apt-get install lxdm
 sudo apt-get install uxterm
-#put custom additions here
+https://github.com/evanjmcafee/Invision_OS.git
 sudo update-initramfs -u -v
